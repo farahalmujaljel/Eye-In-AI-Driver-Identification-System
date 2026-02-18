@@ -1,5 +1,5 @@
 
-**Eye-In** is an AI-powered intelligent system designed to accurately identify the real driver responsible for traffic violations using facial recognition technology. The project addresses a common issue where violations are incorrectly registered under the vehicle owner instead of the actual driver, leading to legal disputes and unfair penalties.
+👁️ **Eye-In** is an AI-powered intelligent system designed to accurately identify the real driver responsible for traffic violations using facial recognition technology. The project addresses a common issue where violations are incorrectly registered under the vehicle owner instead of the actual driver, leading to legal disputes and unfair penalties.
 
 The system uses advanced deep learning models and computer vision techniques to analyze driver images captured by traffic monitoring cameras. By applying Convolutional Neural Networks (CNNs) along with face recognition models such as **FaceNet** and **ArcFace**, Eye-In compares detected faces with a secure database to determine identity with high accuracy. Similarity metrics including cosine similarity and Euclidean distance are used to validate matches.
 
